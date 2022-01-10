@@ -1,0 +1,5 @@
+npm install redux react-redux redux-saga axios moment
+
+redux: quan ly steps
+redux-saga: middleware xu ly cac side effect
+moment: xu ly thoi gian
